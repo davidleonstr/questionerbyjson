@@ -1,0 +1,249 @@
+{
+    "topic_title": "Examen de Estudios Sociales - UES",
+    "questions": [
+        {
+            "title": "¿Qué pueblo indígena se estableció principalmente en el occidente de El Salvador?",
+            "options": ["Lencas", "Pipiles", "Mayas chortís", "Cacaoperos"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Quién lideró la primera expedición española a territorio salvadoreño en 1524?",
+            "options": ["Cristóbal de Olid", "Pedro de Alvarado", "Hernán Cortés", "Diego de Holguín"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué cacique indígena simboliza la resistencia contra la conquista española en El Salvador?",
+            "options": ["Atlácatl", "Tecún Umán", "Lempira", "Nahuizalco"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Cuál fue el principal producto de exportación de El Salvador durante la colonia?",
+            "options": ["Añil", "Café", "Cacao", "Algodón"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿En qué fecha se proclamó la independencia de Centroamérica?",
+            "options": ["15 de septiembre de 1821", "5 de noviembre de 1811", "14 de julio de 1789", "1 de enero de 1823"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Cómo se llamó la unión de los países centroamericanos tras la independencia?",
+            "options": ["Confederación Centroamericana", "Provincias Unidas del Centro de América", "República de Centroamérica", "Liga Federal Centroamericana"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué factor provocó la disolución de la Federación Centroamericana?",
+            "options": ["La falta de recursos naturales", "La rivalidad entre liberales y conservadores", "La intervención de Estados Unidos", "La invasión de México"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿En qué año comenzó la Revolución Francesa?",
+            "options": ["1810", "1492", "1789", "1848"],
+            "correct_answer_number": 2
+        },
+        {
+            "title": "¿Qué lema surgió de la Revolución Francesa?",
+            "options": ["Unidad, progreso y paz", "Libertad, igualdad y fraternidad", "Orden y progreso", "Justicia, patria y honor"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Cuál fue el producto que sustituyó al añil como motor económico en El Salvador en el siglo XIX?",
+            "options": ["Banano", "Café", "Maíz", "Azúcar"],
+            "correct_answer_number": 1
+        },
+
+        {
+            "title": "¿Qué ley permitió expropiar tierras comunales para el cultivo de café?",
+            "options": ["Ley de Cafetales", "Ley de Extinción de Ejidos y Comunales", "Ley de Concentración Agraria", "Ley de Reparto de Tierras"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué suceso marcó el inicio de la Guerra Civil en El Salvador?",
+            "options": ["Fraudes electorales", "Asesinato de Romero", "Insurrección de 1932", "Ofensiva de 1980"],
+            "correct_answer_number": 3
+        },
+        {
+            "title": "¿Qué evento ocurrió en 1932 bajo el régimen de Maximiliano Hernández Martínez?",
+            "options": ["Firma de los Acuerdos de Paz", "La Matanza", "Caída de la dictadura", "La Guerra con Honduras"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué año se firmaron los Acuerdos de Paz en El Salvador?",
+            "options": ["1992", "1989", "1979", "1994"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿En qué ciudad se firmaron los Acuerdos de Paz?",
+            "options": ["San Salvador", "Chapultepec", "Guatemala", "Santa Tecla"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Cuál fue la principal causa de la Primera Guerra Mundial?",
+            "options": ["El asesinato del archiduque Francisco Fernando", "La invasión alemana a Polonia", "La Revolución Rusa", "La firma del Tratado de Versalles"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+            "options": ["Tratado de París", "Tratado de Tordesillas", "Tratado de Versalles", "Tratado de Viena"],
+            "correct_answer_number": 2
+        },
+        {
+            "title": "¿En qué año comenzó la Segunda Guerra Mundial?",
+            "options": ["1914", "1939", "1945", "1929"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué países formaron parte de las Potencias del Eje?",
+            "options": ["EE.UU., Inglaterra, Francia", "Alemania, Italia, Japón", "Rusia, China, Corea", "Alemania, Inglaterra, España"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿En qué año terminó la Segunda Guerra Mundial?",
+            "options": ["1945", "1939", "1950", "1921"],
+            "correct_answer_number": 0
+        },
+
+        {
+            "title": "¿Qué hecho marcó el inicio de la Guerra Fría?",
+            "options": ["La disolución de la URSS", "La Segunda Guerra Mundial", "La caída del Muro de Berlín", "El asesinato de Kennedy"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué evento simbolizó el final de la Guerra Fría?",
+            "options": ["La caída del Muro de Berlín", "La invasión a Irak", "El Plan Marshall", "La llegada a la Luna"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué país fue el primero en llevar al hombre a la Luna en 1969?",
+            "options": ["EE.UU.", "URSS", "China", "Japón"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué líder indígena organizó la insurrección de 1932?",
+            "options": ["Atlácatl", "Farabundo Martí", "Anastasio Aquino", "Felipe Tupan"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué presidente firmó los Acuerdos de Paz en 1992?",
+            "options": ["José Napoleón Duarte", "Maximiliano Hernández Martínez", "Alfredo Cristiani", "Francisco Flores"],
+            "correct_answer_number": 2
+        },
+        {
+            "title": "¿En qué siglo ocurrió la Revolución Industrial?",
+            "options": ["XVII", "XVIII", "XIX", "XX"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Quién perfeccionó la máquina de vapor, motor de la Revolución Industrial?",
+            "options": ["James Watt", "Isaac Newton", "Thomas Edison", "Henry Ford"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué clase social surgió con fuerza durante la Revolución Industrial?",
+            "options": ["Nobleza", "Burguesía", "Proletariado", "Clero"],
+            "correct_answer_number": 2
+        },
+        {
+            "title": "¿Qué documento surgió de la Revolución Francesa?",
+            "options": ["Constitución de Cádiz", "Declaración de los Derechos del Hombre y del Ciudadano", "Carta Magna", "Código Civil Napoleónico"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué establece la Constitución de El Salvador como forma de gobierno?",
+            "options": ["Monarquía constitucional", "República democrática y representativa", "Dictadura militar", "Confederación"],
+            "correct_answer_number": 1
+        },
+
+        {
+            "title": "¿Cuál es el deber principal de los ciudadanos según la Constitución?",
+            "options": ["Respetar la Constitución y las leyes", "Viajar al extranjero", "Apoyar al gobierno de turno", "Ser parte del ejército"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué principio rige las elecciones en El Salvador?",
+            "options": ["Designación por el presidente", "Sorteo aleatorio", "Voto libre, directo y secreto", "Nombramiento militar"],
+            "correct_answer_number": 2
+        },
+        {
+            "title": "¿Cuál es la capital de Honduras?",
+            "options": ["San Pedro Sula", "Tegucigalpa", "Managua", "San Salvador"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Cuál es la capital de Nicaragua?",
+            "options": ["León", "Granada", "San José", "Managua"],
+            "correct_answer_number": 3
+        },
+        {
+            "title": "¿Qué océanos conecta la región centroamericana?",
+            "options": ["Pacífico y Atlántico", "Índico y Pacífico", "Ártico y Atlántico", "Ninguno"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué lago es el más grande de Centroamérica?",
+            "options": ["Lago de Ilopango", "Lago de Nicaragua", "Lago de Atitlán", "Lago Coatepeque"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué país centroamericano no tiene ejército desde 1949?",
+            "options": ["Panamá", "Costa Rica", "Belice", "Guatemala"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué recurso natural fue base del modelo cafetalero?",
+            "options": ["Tierras fértiles", "Petróleo", "Minerales", "Pesca"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué presidente intentó reformas democráticas en medio de la Guerra Civil?",
+            "options": ["José Napoleón Duarte", "Armando Calderón Sol", "Alfredo Cristiani", "Carlos Meléndez"],
+            "correct_answer_number": 0
+        },
+
+        {
+            "title": "¿En qué año cayó el Muro de Berlín?",
+            "options": ["1980", "1989", "1991", "1995"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué organización internacional se creó en 1945 para evitar nuevas guerras?",
+            "options": ["Liga de Naciones", "ONU", "OEA", "OTAN"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué guerra se libró en 1969 entre El Salvador y Honduras?",
+            "options": ["Guerra del Fútbol", "Guerra del Café", "Guerra Civil Centroamericana", "Guerra del Añil"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué presidente impulsó el neoliberalismo en los años 90 en El Salvador?",
+            "options": ["Francisco Flores", "José Napoleón Duarte", "Alfredo Cristiani", "Tony Saca"],
+            "correct_answer_number": 2
+        },
+        {
+            "title": "¿Qué país apoyó militarmente al gobierno salvadoreño durante la Guerra Civil?",
+            "options": ["Cuba", "Unión Soviética", "Estados Unidos", "México"],
+            "correct_answer_number": 2
+        },
+        {
+            "title": "¿Qué país apoyó al FMLN durante la Guerra Civil?",
+            "options": ["Estados Unidos", "Cuba", "España", "Brasil"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué documento inspiró a los países latinoamericanos en sus constituciones tras la independencia?",
+            "options": ["Declaración de Independencia de EE.UU.", "Declaración de los Derechos del Hombre y del Ciudadano", "Constitución Inglesa", "Carta Magna"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué país lideró la expansión socialista durante la Guerra Fría?",
+            "options": ["EE.UU.", "URSS", "China", "Cuba"],
+            "correct_answer_number": 1
+        },
+        {
+            "title": "¿Qué evento mundial ocurrió en 1929 que afectó la economía global?",
+            "options": ["Gran Depresión", "Segunda Guerra Mundial", "Revolución Rusa", "Tratado de Versalles"],
+            "correct_answer_number": 0
+        }
+    ]
+}

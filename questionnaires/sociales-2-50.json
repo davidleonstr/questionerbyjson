@@ -1,0 +1,259 @@
+{
+  "topic_title": "Examen de Cultura General y Conceptos Básicos - UES",
+  "questions": [
+    {
+      "title": "¿Quién escribió la letra del Himno Nacional de El Salvador?",
+      "options": ["Juan José Cañas", "Juan Aberle", "José Matías Delgado", "Salarrué"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Quién compuso la música del Himno Nacional?",
+      "options": ["Roque Dalton", "Juan Aberle", "Juan José Cañas", "Claudia Lars"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué representan los cinco volcanes en el escudo nacional?",
+      "options": ["Los cinco continentes", "Los cinco países de Centroamérica", "Cinco héroes nacionales", "Las cinco regiones de El Salvador"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué sacerdote es recordado por liderar el primer grito de independencia en 1811?",
+      "options": ["Manuel José Arce", "José Matías Delgado", "Anastasio Aquino", "Óscar Romero"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Quién fue el primer presidente de la Federación Centroamericana?",
+      "options": ["José Cecilio del Valle", "Manuel José Arce", "Rafael Carrera", "Francisco Morazán"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Quién encabezó la rebelión indígena de 1833 en Santiago Nonualco?",
+      "options": ["Farabundo Martí", "Anastasio Aquino", "Atlácatl", "Felipe Tupan"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué líder religioso fue asesinado en 1980 y canonizado en 2018?",
+      "options": ["Claudia Lars", "Óscar Romero", "José Matías Delgado", "Maximiliano Hernández"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué poeta salvadoreño escribió 'Taberna y otros lugares'?",
+      "options": ["Roque Dalton", "Salarrué", "Claudia Lars", "Francisco Gavidia"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Quién escribió 'Cuentos de barro'?",
+      "options": ["Salarrué", "Claudia Lars", "Roque Dalton", "Arturo Ambrogi"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué poetisa escribió 'Romances de Norte y Sur'?",
+      "options": ["Claudia Lars", "Consuelo Suncín", "Claribel Alegría", "Rosa Chávez"],
+      "correct_answer_number": 0
+    },
+
+    {
+      "title": "¿Cuál es el río más largo de El Salvador?",
+      "options": ["Río Paz", "Río Lempa", "Río Grande de San Miguel", "Río Jiboa"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Cuál es el volcán más alto de El Salvador?",
+      "options": ["Volcán de Izalco", "Volcán de San Miguel", "Volcán Ilamatepec", "Volcán de San Salvador"],
+      "correct_answer_number": 2
+    },
+    {
+      "title": "¿Cuál es el lago más grande de El Salvador?",
+      "options": ["Coatepeque", "Ilopango", "Güija", "Olomega"],
+      "correct_answer_number": 2
+    },
+    {
+      "title": "¿Cuál es el lago más grande de Centroamérica?",
+      "options": ["Lago de Coatepeque", "Lago de Atitlán", "Lago de Nicaragua", "Lago Güija"],
+      "correct_answer_number": 2
+    },
+    {
+      "title": "¿Cuál es el país más grande de Centroamérica?",
+      "options": ["Honduras", "Guatemala", "Nicaragua", "Costa Rica"],
+      "correct_answer_number": 2
+    },
+    {
+      "title": "¿Cuál es el país más pequeño de Centroamérica?",
+      "options": ["Belice", "Panamá", "El Salvador", "Costa Rica"],
+      "correct_answer_number": 2
+    },
+    {
+      "title": "¿Qué país centroamericano abolió su ejército en 1949?",
+      "options": ["Honduras", "Costa Rica", "Belice", "Panamá"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué organismo regional promueve la integración centroamericana?",
+      "options": ["SICA", "ONU", "OEA", "CELAC"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué platillo es considerado el nacional de El Salvador?",
+      "options": ["Tamales", "Pupusas", "Yuca frita", "Empanadas"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿En qué mes se celebran las fiestas patronales de San Salvador?",
+      "options": ["Julio", "Agosto", "Noviembre", "Mayo"],
+      "correct_answer_number": 1
+    },
+
+    {
+      "title": "¿Qué tradición incluye alfombras de aserrín en El Salvador?",
+      "options": ["Semana Santa", "Navidad", "Fiestas Agostinas", "Día de la Independencia"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué monumento es símbolo de San Salvador?",
+      "options": ["Teatro Nacional", "Palacio Nacional", "Monumento al Divino Salvador del Mundo", "Museo Nacional"],
+      "correct_answer_number": 2
+    },
+    {
+      "title": "¿Qué instrumento destaca en la música folklórica centroamericana?",
+      "options": ["Guitarra eléctrica", "Marimba", "Trompeta", "Batería"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué significa migración?",
+      "options": ["Movimiento de personas de un lugar a otro", "El derecho al voto", "Cambio climático", "Unión de países"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Cómo se llama cuando una persona sale de su país de origen?",
+      "options": ["Inmigración", "Emigración", "Exilio", "Migración interna"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Cómo se llama cuando una persona entra a vivir en otro país?",
+      "options": ["Migración", "Inmigración", "Exilio", "Diáspora"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué es migración interna?",
+      "options": ["Cambio de ciudad o región dentro del mismo país", "Viaje al extranjero", "Salida masiva por guerra", "Movimiento turístico"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué son remesas?",
+      "options": ["Impuestos al comercio", "Dinero enviado por migrantes a su país de origen", "Subsidios del Estado", "Créditos bancarios"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué es población absoluta?",
+      "options": ["Número de habitantes por km²", "Número total de habitantes en un lugar", "Promedio de años que vive una persona", "Número de nacimientos anuales"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué es población relativa?",
+      "options": ["Número total de habitantes", "Promedio de edad de la población", "Densidad poblacional (habitantes/km²)", "Esperanza de vida"],
+      "correct_answer_number": 2
+    },
+
+    {
+      "title": "¿Qué es esperanza de vida?",
+      "options": ["Número de nacimientos por año", "Promedio de años que vive una persona", "Edad de jubilación", "Número de muertes por año"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué mide la tasa de natalidad?",
+      "options": ["Número de nacimientos por cada 1,000 habitantes", "Número de muertes por cada 1,000 habitantes", "Número total de migrantes", "Número de matrimonios"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué mide la tasa de mortalidad?",
+      "options": ["Número de muertes por cada 1,000 habitantes", "Número de nacimientos por cada 1,000 habitantes", "Número de migrantes", "Nivel de pobreza"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué es oligarquía?",
+      "options": ["Gobierno de muchos", "Gobierno de un rey", "Pequeño grupo que concentra poder económico y político", "Sistema socialista"],
+      "correct_answer_number": 2
+    },
+    {
+      "title": "¿Qué es globalización?",
+      "options": ["Proceso de industrialización", "Interconexión mundial en lo económico, social y cultural", "Control de un país sobre otro", "Expansión territorial"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué es desarrollo sostenible?",
+      "options": ["Uso de recursos sin agotarlos para futuras generaciones", "Aumento de la población mundial", "Uso ilimitado de recursos naturales", "Explotación petrolera"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué es democracia?",
+      "options": ["Gobierno de una sola persona", "Sistema en el que el pueblo elige a sus representantes", "Gobierno militar", "Dictadura"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué es sufragio?",
+      "options": ["Derecho al voto", "Sistema económico", "Unión de países", "Deber de pagar impuestos"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué es ciudadanía?",
+      "options": ["Condición de pertenecer a un Estado con derechos y deberes", "Derecho a migrar", "Tener un pasaporte", "Ser mayor de edad"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué es dictadura?",
+      "options": ["Gobierno de representantes elegidos", "Gobierno donde el poder está en una persona o grupo", "República democrática", "Sistema parlamentario"],
+      "correct_answer_number": 1
+    },
+
+    {
+      "title": "¿Qué son los Derechos Humanos?",
+      "options": ["Reglas del Estado", "Derechos universales inherentes a todas las personas", "Obligaciones de los ciudadanos", "Leyes internacionales"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué son derechos civiles?",
+      "options": ["Derecho a la educación y salud", "Derecho a la vida, libertad, propiedad y expresión", "Derecho a votar", "Derecho a subsidios"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué son derechos políticos?",
+      "options": ["Derecho al voto y a ser electo", "Derecho a la salud", "Derecho a la libertad de expresión", "Derecho al trabajo"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué son derechos sociales?",
+      "options": ["Educación, salud y trabajo", "Vida y propiedad", "Voto y asociación política", "Libertad de expresión"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué es un mapa político?",
+      "options": ["Muestra fronteras, países y ciudades", "Muestra montañas y ríos", "Muestra climas", "Muestra corrientes oceánicas"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué es un mapa físico?",
+      "options": ["Muestra fronteras", "Muestra relieves, ríos y montañas", "Muestra carreteras", "Muestra población"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué son recursos renovables?",
+      "options": ["Se regeneran naturalmente (agua, bosques)", "Se agotan (petróleo)", "Son importados", "Son solo minerales"],
+      "correct_answer_number": 0
+    },
+    {
+      "title": "¿Qué son recursos no renovables?",
+      "options": ["Se regeneran", "Se agotan con el uso (petróleo, minerales)", "Son inagotables", "Solo agrícolas"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué es deforestación?",
+      "options": ["Contaminación del aire", "Pérdida de bosques por tala", "Cambio de ríos", "Uso de fertilizantes"],
+      "correct_answer_number": 1
+    },
+    {
+      "title": "¿Qué es cambio climático?",
+      "options": ["Variación global del clima causada por actividad humana", "Estaciones del año", "Fenómeno local de lluvias", "Tormenta tropical"],
+      "correct_answer_number": 0
+    }
+  ]
+}

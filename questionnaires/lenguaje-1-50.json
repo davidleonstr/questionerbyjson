@@ -1,0 +1,250 @@
+{
+    "topic_title": "Examen de Lenguaje - Ingreso UES",
+    "questions": [
+        {
+            "title": "¿Qué es una metáfora?",
+            "options": ["Una comparación implícita", "Una exageración", "Una contradicción", "Una repetición de sonidos"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué es una hipérbole?",
+            "options": ["Exageración intencional", "Repetición de palabras", "Juego de palabras", "Imitación de sonidos"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué es una paradoja?",
+            "options": ["Una contradicción aparente que guarda verdad", "Una exageración extrema", "Una comparación explícita", "Un adorno innecesario"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué es una elipsis?",
+            "options": ["Omisión de palabras", "Repetición de sonidos", "Exageración", "Contradicción"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué es un epíteto?",
+            "options": ["Un adjetivo innecesario por ser obvio", "Una comparación poética", "Una exageración", "Un juego de palabras"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué es una onomatopeya?",
+            "options": ["Imitación de sonidos", "Exageración", "Contradicción", "Juego de palabras"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En la comunicación, ¿quién transmite el mensaje?",
+            "options": ["Emisor", "Receptor", "Canal", "Código"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En la comunicación, ¿qué elemento es el medio por el cual viaja el mensaje?",
+            "options": ["Canal", "Código", "Emisor", "Contexto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En la comunicación, ¿qué representa el idioma usado?",
+            "options": ["Código", "Mensaje", "Canal", "Contexto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Cuál de estas es un ejemplo de uso correcto de preposición?",
+            "options": ["Depender de mis padres", "Depender a mis padres", "Depender en mis padres", "Depender por mis padres"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Cuál es correcto?",
+            "options": ["Soñar con viajar", "Soñar de viajar", "Soñar por viajar", "Soñar a viajar"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Cuál es correcto?",
+            "options": ["Enamorarse de alguien", "Enamorarse a alguien", "Enamorarse por alguien", "Enamorarse en alguien"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La palabra 'canción' es:",
+            "options": ["Aguda", "Grave", "Esdrújula", "Sobreesdrújula"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La palabra 'árbol' es:",
+            "options": ["Grave", "Aguda", "Esdrújula", "Sobreesdrújula"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La palabra 'pájaro' es:",
+            "options": ["Esdrújula", "Aguda", "Grave", "Sobreesdrújula"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La palabra 'dígamelo' es:",
+            "options": ["Sobreesdrújula", "Esdrújula", "Grave", "Aguda"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué palabras siempre llevan tilde?",
+            "options": ["Esdrújulas y sobreesdrújulas", "Agudas", "Graves", "Todas las que terminan en vocal"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Sinónimos son:",
+            "options": ["Palabras de significado similar", "Palabras opuestas", "Palabras que suenan igual", "Palabras inventadas"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Antónimos son:",
+            "options": ["Palabras con significado opuesto", "Palabras similares", "Palabras homófonas", "Palabras con errores"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Homófonas son:",
+            "options": ["Palabras que suenan igual pero se escriben diferente", "Palabras iguales en todo", "Palabras con distinto significado pero misma escritura", "Palabras inventadas"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Ejemplo de homófonas:",
+            "options": ["Vaca y baca", "Sol y luna", "Perro y gato", "Casa y hogar"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Los barbarismos son:",
+            "options": ["Errores al usar palabras", "Palabras cultas", "Figuras literarias", "Palabras inventadas"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Ejemplo de barbarismo:",
+            "options": ["Haiga en lugar de haya", "Casa en lugar de hogar", "Sol en lugar de astro", "Carro en lugar de vehículo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La oración '¡Qué lindo día!' es:",
+            "options": ["Exclamativa", "Interrogativa", "Enunciativa", "Imperativa"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La oración '¿Vendrás mañana?' es:",
+            "options": ["Interrogativa", "Exclamativa", "Imperativa", "Enunciativa"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La oración 'Cierra la puerta' es:",
+            "options": ["Imperativa", "Exclamativa", "Enunciativa", "Interrogativa"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La oración 'El sol brilla en el cielo' es:",
+            "options": ["Enunciativa", "Exclamativa", "Imperativa", "Interrogativa"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué tipo de palabra es 'camión'?",
+            "options": ["Aguda", "Grave", "Esdrújula", "Sobreesdrújula"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué tipo de palabra es 'mesa'?",
+            "options": ["Grave", "Aguda", "Esdrújula", "Sobreesdrújula"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué tipo de palabra es 'teléfono'?",
+            "options": ["Esdrújula", "Grave", "Aguda", "Sobreesdrújula"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué tipo de palabra es 'fácilmente'?",
+            "options": ["Sobreesdrújula", "Esdrújula", "Aguda", "Grave"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En el proceso de comunicación, el 'mensaje' es:",
+            "options": ["La información que se transmite", "El idioma usado", "El medio físico", "El que recibe"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "El 'contexto' en la comunicación es:",
+            "options": ["La situación en la que ocurre el acto comunicativo", "El canal", "El código", "El emisor"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La frase 'el blanco nieve' es un ejemplo de:",
+            "options": ["Epíteto", "Metáfora", "Hipérbole", "Elipsis"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La frase 'Sus ojos eran dos luceros' es un ejemplo de:",
+            "options": ["Metáfora", "Hipérbole", "Onomatopeya", "Paradoja"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La frase 'Tengo mil cosas que hacer' es un ejemplo de:",
+            "options": ["Hipérbole", "Elipsis", "Metáfora", "Epíteto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La frase 'Si quieres que te siga, sígueme' es un ejemplo de:",
+            "options": ["Paradoja", "Onomatopeya", "Epíteto", "Hipérbole"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En la oración 'Pedro come manzana', 'Pedro' es:",
+            "options": ["Sujeto", "Predicado", "Complemento", "Adjetivo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En la oración 'Pedro come manzana', 'come manzana' es:",
+            "options": ["Predicado", "Sujeto", "Complemento", "Artículo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En la oración 'El perro duerme', 'perro' es:",
+            "options": ["Núcleo del sujeto", "Núcleo del predicado", "Adjetivo", "Verbo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En la oración 'El perro duerme', 'duerme' es:",
+            "options": ["Verbo", "Sujeto", "Artículo", "Adjetivo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué figura literaria aparece en 'El sol se enojó y se escondió'?",
+            "options": ["Personificación", "Epíteto", "Elipsis", "Metáfora"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Qué figura literaria aparece en 'Vuela como un águila'?",
+            "options": ["Símil", "Hipérbole", "Metáfora", "Epíteto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La oración 'El niño canta y baila' tiene:",
+            "options": ["Dos verbos en el predicado", "Dos sujetos", "Un solo verbo", "Ningún verbo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La palabra 'rápidamente' es:",
+            "options": ["Adverbio", "Adjetivo", "Sustantivo", "Verbo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La palabra 'hermoso' es:",
+            "options": ["Adjetivo", "Sustantivo", "Verbo", "Adverbio"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La palabra 'libro' es:",
+            "options": ["Sustantivo", "Adjetivo", "Adverbio", "Verbo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "La palabra 'correr' es:",
+            "options": ["Verbo", "Adjetivo", "Sustantivo", "Adverbio"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Cuál es la tilde diacrítica correcta?",
+            "options": ["Tú vienes a la fiesta", "Tu vienes a la fiesta", "Tú casa es bonita", "Él perro está dormido"],
+            "correct_answer_number": 0
+        }
+    ]
+}

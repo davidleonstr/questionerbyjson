@@ -1,0 +1,240 @@
+{
+    "topic_title": "Examen de Lenguaje y Literatura - Ingreso UES",
+    "questions": [
+        {
+            "title": "La idea principal de un texto es:",
+            "options": ["El mensaje central", "Los ejemplos secundarios", "Las opiniones del lector", "El título del texto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Las ideas secundarias sirven para:",
+            "options": ["Apoyar o explicar la idea principal", "Reemplazar la idea principal", "Contradecir al autor", "Resumir el texto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Hacer inferencias en un texto significa:",
+            "options": ["Sacar conclusiones implícitas", "Repetir lo que dice", "Subrayar la idea principal", "Copiar el texto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "El propósito comunicativo de un texto puede ser:",
+            "options": ["Informar, persuadir, entretener o expresar sentimientos", "Solo informar", "Siempre persuadir", "Dar ejemplos"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Texto: 'Rubén Darío revolucionó la poesía con el modernismo'. ¿Cuál es la idea principal?",
+            "options": ["Darío revolucionó la poesía", "Darío nació en Nicaragua", "La poesía es importante", "El modernismo es un movimiento"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Un sustantivo es:",
+            "options": ["Una palabra que nombra seres, cosas o ideas", "Una palabra que describe acciones", "Una palabra que modifica verbos", "Una palabra que sustituye al sustantivo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Un verbo expresa:",
+            "options": ["Acción o estado", "Nombre de cosas", "Calidad del sustantivo", "Relación entre palabras"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Un adjetivo es:",
+            "options": ["Una palabra que califica al sustantivo", "Una palabra que indica acción", "Una palabra que sustituye un nombre", "Una palabra que modifica al verbo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Un adverbio es:",
+            "options": ["Una palabra que modifica verbos, adjetivos o adverbios", "Un sinónimo", "Un sustantivo", "Un pronombre"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Cuál de estas oraciones está en concordancia correcta?",
+            "options": ["Los poetas modernos", "El poetas modernos", "Los poeta moderno", "La poetas modernos"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "¿Cuál es un ejemplo de tilde diacrítica?",
+            "options": ["Tú vienes a la fiesta", "Tu perro es bonito", "El niño juega", "La casa es grande"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Un sinónimo de 'rápido' es:",
+            "options": ["Veloz", "Lento", "Torpe", "Tardío"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Un antónimo de 'alegría' es:",
+            "options": ["Tristeza", "Felicidad", "Gozo", "Diversión"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Parónimos son palabras:",
+            "options": ["Similares en forma pero distintas en significado", "Con igual significado", "Con sonido igual", "Inventadas"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Ejemplo de parónimos:",
+            "options": ["Absorber / absolver", "Casa / hogar", "Vaca / baca", "Amor / odio"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Analogía: 'Lírica es a poesía como dramática es a…'",
+            "options": ["Teatro", "Novela", "Ensayo", "Cuento"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Movimiento literario del siglo XVII, recargado y complejo:",
+            "options": ["Barroco", "Neoclasicismo", "Romanticismo", "Realismo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Movimiento literario del siglo XVIII, racional y equilibrado:",
+            "options": ["Neoclasicismo", "Barroco", "Romanticismo", "Modernismo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Movimiento literario del siglo XIX que exalta sentimientos y libertad:",
+            "options": ["Romanticismo", "Barroco", "Neoclasicismo", "Realismo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Movimiento literario del XIX que describe objetivamente la sociedad:",
+            "options": ["Realismo", "Romanticismo", "Barroco", "Vanguardismo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Movimiento de finales del XIX liderado por Rubén Darío:",
+            "options": ["Modernismo", "Realismo", "Romanticismo", "Barroco"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Movimientos experimentales del siglo XX:",
+            "options": ["Vanguardias", "Barroco", "Neoclasicismo", "Modernismo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Rubén Darío es el máximo exponente de:",
+            "options": ["Modernismo", "Barroco", "Romanticismo", "Realismo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "José Martí es un autor asociado a:",
+            "options": ["Modernismo", "Barroco", "Romanticismo", "Realismo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Sor Juana Inés de la Cruz pertenece al:",
+            "options": ["Barroco", "Neoclasicismo", "Modernismo", "Vanguardismo"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "El género lírico se centra en:",
+            "options": ["La expresión de sentimientos", "La narración de hechos", "El diálogo entre personajes", "La descripción objetiva"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "El género narrativo se caracteriza por:",
+            "options": ["Contar hechos reales o ficticios", "Expresar sentimientos", "Exponer argumentos", "Dialogar en teatro"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "El género dramático se presenta:",
+            "options": ["En forma de diálogo y representación teatral", "En prosa narrativa", "En versos líricos", "En ensayos filosóficos"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Figura literaria: 'Sus dientes son perlas' corresponde a:",
+            "options": ["Metáfora", "Símil", "Hipérbole", "Epíteto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Figura literaria: 'Corre más rápido que el viento' corresponde a:",
+            "options": ["Símil", "Metáfora", "Hipérbole", "Paradoja"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Figura literaria: 'Tengo mil problemas' corresponde a:",
+            "options": ["Hipérbole", "Símil", "Elipsis", "Paradoja"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Figura literaria: 'El hielo quema' corresponde a:",
+            "options": ["Paradoja", "Hipérbole", "Epíteto", "Elipsis"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Figura literaria: 'La oscura noche' corresponde a:",
+            "options": ["Epíteto", "Metáfora", "Símil", "Hipérbole"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Figura literaria: 'El niño, flores en mano, corrió' corresponde a:",
+            "options": ["Elipsis", "Paradoja", "Hipérbole", "Epíteto"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Figura literaria: '¡Boom! sonó la explosión' corresponde a:",
+            "options": ["Onomatopeya", "Elipsis", "Epíteto", "Metáfora"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En comunicación, el 'emisor' es:",
+            "options": ["Quien envía el mensaje", "Quien recibe el mensaje", "El medio de transmisión", "El idioma"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En comunicación, el 'receptor' es:",
+            "options": ["Quien recibe el mensaje", "Quien lo envía", "El medio físico", "El tema del mensaje"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En comunicación, el 'canal' es:",
+            "options": ["El medio físico por el cual viaja el mensaje", "El idioma", "El emisor", "El receptor"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En comunicación, el 'código' es:",
+            "options": ["El idioma o sistema de signos", "El contexto", "El canal", "El receptor"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "En comunicación, el 'contexto' es:",
+            "options": ["La situación en que se da la comunicación", "El idioma usado", "El medio físico", "El emisor"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Palabra aguda:",
+            "options": ["Canción", "Árbol", "Pájaro", "Teléfono"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Palabra grave:",
+            "options": ["Árbol", "Canción", "Dígamelo", "Teléfono"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Palabra esdrújula:",
+            "options": ["Teléfono", "Canción", "Árbol", "Comer"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Palabra sobreesdrújula:",
+            "options": ["Dígamelo", "Teléfono", "Canción", "Árbol"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Todas las palabras esdrújulas:",
+            "options": ["Llevan tilde", "Nunca llevan tilde", "Dependen del contexto", "Solo si terminan en vocal"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Ejemplo de uso correcto de preposición:",
+            "options": ["Depender de mis padres", "Depender a mis padres", "Depender en mis padres", "Depender por mis padres"],
+            "correct_answer_number": 0
+        },
+        {
+            "title": "Ejemplo de error por barbarismo:",
+            "options": ["Haiga en lugar de haya", "Amar en lugar de querer", "Coche en lugar de carro", "Casa en lugar de hogar"],
+            "correct_answer_number": 0
+        }
+    ]
+}
